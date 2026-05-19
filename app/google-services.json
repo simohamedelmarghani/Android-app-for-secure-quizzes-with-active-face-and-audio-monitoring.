@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620401363470",
+    "project_id": "quizz-3f722",
+    "storage_bucket": "quizz-3f722.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620401363470:android:adaf014c116b9084e80a5f",
+        "android_client_info": {
+          "package_name": "com.example.quiz_elmarghani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-zlcz2mQBv2f8t-l6zS6Bs_xm7oS84IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
